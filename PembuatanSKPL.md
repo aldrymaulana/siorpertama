@@ -1,0 +1,1 @@
+Dari informasi yang didapat dari klien, kita membuat SKPL sebagai dokumen terperinci dan sistematis sebelum membangun aplikasi.
